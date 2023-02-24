@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @baykalfurkan
-- 🌱 I’m currently learning C++
-- 📫 You can  reach me on gmail or twitter
+- 🌱 I’m currently learning C#
+- 📫 You can  reach me on gmail
 
 <!---
 baykalfurkan/baykalfurkan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
