@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @baykalfurkan
+- 👋 Hi, I’m Furkan
 - 🌱 I’m currently learning C#
 - 📫 You can  reach me on gmail
 
