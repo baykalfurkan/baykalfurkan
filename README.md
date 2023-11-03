@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Furkan
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning Python
 - 📫 You can  reach me on gmail
 
 <!---
